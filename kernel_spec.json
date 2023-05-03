@@ -1,0 +1,17 @@
+{
+    "resource_dir": "/usr/local/share/jupyter/kernels/python3",
+    "spec": {
+      "argv": [
+        "python",
+        "-m",
+        "ipykernel_launcher",
+        "-f",
+        "{connection_file}"
+      ],
+      "env": {},
+      "display_name": "Python 3",
+      "language": "python",
+      "interrupt_mode": "signal",
+      "metadata": {}
+    }
+  }
