@@ -2,7 +2,7 @@
   "secrets":
   {
     "OPENAI_API_KEY": {"description": "Just an OpenAI api key"},
-    "ACCESS_TOKEN": {"description": "Some access token"}
+    "ACCESS_TOKEN": {"description": "Some access token"},
     "ONE_MORE": {"description": "one more secret to be configured"}
   },
   "build": {
