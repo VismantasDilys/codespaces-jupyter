@@ -1,4 +1,9 @@
 {
+  "secrets":
+  {
+    "OPENAI_API_KEY": {"description": "Just an OpenAI api key"},
+    "ACCESS_TOKEN": {"description": "Some access token"}
+  },
   "build": {
     "dockerfile" : "Dockerfile"
   },
